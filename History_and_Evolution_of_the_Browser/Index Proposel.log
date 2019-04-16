@@ -1,38 +1,7 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.10.28)  16 APR 2019 14:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  16 APR 2019 14:07
 entering extended mode
-**./main.tex
-(main.tex
-LaTeX2e <2018-04-01> patch level 5
-
-! LaTeX Error: File `llncs.cls' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: cls)
-
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.2 
-     
-*** (cannot \read from terminal in nonstop modes)
-
- 
-Here is how much of TeX's memory you used:
- 12 strings out of 492973
- 257 string characters out of 3126691
- 56067 words of memory out of 3000000
- 3981 multiletter control sequences out of 15000+200000
- 3640 words of font info for 14 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 10i,0n,8p,49b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  16 APR 2019 13:50
-entering extended mode
-**./main.tex
-(main.tex
+**"./Index Proposel.tex"
+("Index Proposel.tex"
 LaTeX2e <2018-12-01>
 ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -86,8 +55,8 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
-) (main.aux)
-\openout1 = `main.aux'.
+) ("Index Proposel.aux")
+\openout1 = `"Index Proposel.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -174,25 +143,34 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)<<ot1.cmap>> [1
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+<<omx.cmap>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+ [1
 
-{C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (main.aux) 
-) 
+{C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("Index Pro
+posel.aux") ) 
 Here is how much of TeX's memory you used:
- 1442 strings out of 492945
- 22165 string characters out of 3126252
- 81553 words of memory out of 3000000
- 5349 multiletter control sequences out of 15000+200000
- 4245 words of font info for 16 fonts, out of 3000000 for 9000
+ 1482 strings out of 492945
+ 22747 string characters out of 3126252
+ 82532 words of memory out of 3000000
+ 5365 multiletter control sequences out of 15000+200000
+ 7280 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,4n,25p,273b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb>
-Output written on main.pdf (1 page, 18346 bytes).
+ 41i,6n,25p,285b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Felix/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Felix/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "Index Proposel.pdf" (1 page, 44283 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 5 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
->>>>>>> 440eb84f70d010758b6e1e2317f383eb9e8d1a00
