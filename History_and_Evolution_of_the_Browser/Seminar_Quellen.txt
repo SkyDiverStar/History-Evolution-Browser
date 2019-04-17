@@ -11,6 +11,7 @@ https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg
 https://de.wikipedia.org/wiki/Webbrowser
 https://home.bt.com/tech-gadgets/internet/history-of-web-browser-microsoft-windows-95-mozilla-netscape-11363975314062
 https://www.w3.org/People/Berners-Lee/WorldWideWeb.html
+https://ieeexplore.ieee.org/abstract/document/1510168
 "The Web Was Done by Amateurs" by Marco Aiello, ISBN 978-3-319-90007-0
 
 ("How the Web was Born: The Story of the World Wide Web" by James Gilles, ISBN-13 978-0192862075
