@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  16 APR 2019 16:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.10.28)  17 APR 2019 13:22
 entering extended mode
 **./typeinst.tex
 (typeinst.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2018-04-01> patch level 5
 (llncs.cls
 Document Class: llncs 2018/03/10 v2.20 
  LaTeX document class for Lecture Notes in Computer Science
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -22,11 +22,11 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.s
+) ("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.s
 ty"
-Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \c@tracingmulticols=\count88
-\mult@box=\box27
+\mult@box=\box26
 \multicol@leftmargin=\dimen103
 \c@unbalance=\count89
 \c@collectmore=\count90
@@ -39,13 +39,14 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \postmulticols=\dimen107
 \multicolsep=\skip43
 \multicolbaselineskip=\skip44
-\partial@page=\box28
-\last@line=\box29
+\partial@page=\box27
+\last@line=\box28
 \maxbalancingoverflow=\dimen108
-\mult@rightbox=\box30
-\mult@grightbox=\box31
-\mult@gfirstbox=\box32
-\mult@firstbox=\box33
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
 \@tempa=\box34
 \@tempa=\box35
 \@tempa=\box36
@@ -62,20 +63,26 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \@tempa=\box47
 \@tempa=\box48
 \@tempa=\box49
-\@tempa=\box50
 \c@columnbadness=\count94
 \c@finalcolumnbadness=\count95
 \last@try=\dimen109
 \multicolovershoot=\dimen110
 \multicolundershoot=\dimen111
-\mult@nat@firstbox=\box51
-\colbreak@box=\box52
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
 \mc@col@check@num=\count96
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\aliascnt.
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\aliascnt.
 sty"
-Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
-)
+Package: aliascnt 2016/05/16 v1.4 Alias counters (HO)
+
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\carlisle\remreset.
+sty"
+
+Package remreset Warning: The remreset package is obsolete:
+(remreset)                \@removefomresset is defined.
+
+))
 \c@chapter=\count97
 LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
 LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
@@ -104,10 +111,10 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
 \c@@auth=\count100
 \c@auco=\count101
 \instindent=\dimen123
-\authrun=\box53
+\authrun=\box52
 \authorrunning=\toks14
 \tocauthor=\toks15
-\titrun=\box54
+\titrun=\box53
 \titlerunning=\toks16
 \toctitle=\toks17
 \c@theorem=\count102
@@ -127,11 +134,11 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
 \c@remark=\count116
 \headlineindent=\dimen124
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
 ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
 sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks18
@@ -140,36 +147,36 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
 sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
 y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
 sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
 ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
 x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen125
 \Gin@req@width=\dimen126
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -189,12 +196,12 @@ LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
-df.mkii"
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count117
 \scratchdimen=\dimen127
-\scratchbox=\box55
+\scratchbox=\box54
 \nofMPsegments=\count118
 \nofMParguments=\count119
 \everyMPshowfont=\toks20
@@ -204,51 +211,56 @@ df.mkii"
 \makeMPintoPDFobject=\count122
 \everyMPtoPDFconversion=\toks21
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
 base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
 rr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
 y"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
 ekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
 .sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
 .sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
 ys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
 s.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
 x.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-))))
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
 mds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
 ty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -264,16 +276,16 @@ G,.JBIG2,.JB2,.eps]
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 79.
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 79.
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-{C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{C:/Users/germa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Overfull \hbox (14.67911pt too wide) in paragraph at lines 160--165
 \OT1/cmr/m/n/10 Springer pro-vides you with a com-plete in-te-grated L[]T[]X do
 c-u-ment class (\OT1/cmtt/m/n/10 llncs.cls\OT1/cmr/m/n/10 )
@@ -288,10 +300,10 @@ cmtt/m/n/10 http : / / www . latex-[]project . org / ftp . html$\OT1/cmr/m/n/10
 
 [3]
 Package epstopdf Info: Source file: <eijkel2.eps>
-(epstopdf)                    date: 2019-04-16 15:58:50
+(epstopdf)                    date: 2019-04-16 14:49:24
 (epstopdf)                    size: 13532 bytes
 (epstopdf)             Output file: <eijkel2-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-04-16 15:58:50
+(epstopdf)                    date: 2019-04-16 14:52:06
 (epstopdf)                    size: 8979 bytes
 (epstopdf)             Command: <epstopdf --outfile=eijkel2-eps-converted-to.pd
 f eijkel2.eps>
@@ -304,35 +316,35 @@ Package pdftex.def Info: eijkel2-eps-converted-to.pdf  used on input line 248.
 (pdftex.def)             Requested size: 217.18216pt x 176.407pt.
  [4 <./eijkel2-eps-converted-to.pdf>] [5] [6] [7] [8] (typeinst.aux) ) 
 Here is how much of TeX's memory you used:
- 2261 strings out of 492945
- 31545 string characters out of 3126252
- 100932 words of memory out of 3000000
- 6119 multiletter control sequences out of 15000+200000
+ 2270 strings out of 492973
+ 31484 string characters out of 3126691
+ 100287 words of memory out of 3000000
+ 6097 multiletter control sequences out of 15000+200000
  12540 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,27p,471b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,9n,27p,467b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users
-/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.
-pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmbx9.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Felix/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Felix/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Fe
-lix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
-<C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmi9.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Felix/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Felix/AppDat
+/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmbx9.pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/germa/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/germa/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/ge
+rma/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
+<C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi9.pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/germa/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/germa/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/germa/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users
-/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.p
-fb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmti10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmti9.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Felix/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/Felix/AppData/Lo
+/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.p
+fb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmti10.pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmti9.pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/germa/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/germa/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
 Output written on typeinst.pdf (8 pages, 260938 bytes).
 PDF statistics:
