@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  6 MAY 2019 11:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  6 MAY 2019 14:42
 entering extended mode
 **./main.tex
 (main.tex
@@ -162,20 +162,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen125
 \Gin@req@width=\dimen126
-) (main.aux
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 <
-     <<<<<< HEAD
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-)
+) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -263,40 +250,39 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)<<ot1.cmap>> [1{C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.m
-ap}
-
-]<<oml.cmap>><<oms.cmap>>
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 15.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 15.
- [2] [3
+ [1
+
+{C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 36--39
 
  []
 
-[4] [5] (main.aux) ) 
+[3] [4] [5] (main.aux) ) 
 Here is how much of TeX's memory you used:
  1895 strings out of 492945
- 27728 string characters out of 3126252
- 100898 words of memory out of 3000000
+ 27726 string characters out of 3126252
+ 98833 words of memory out of 3000000
  5769 multiletter control sequences out of 15000+200000
  6111 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,25p,1402b,166s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Felix/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Felix/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
-/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pf
-b><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmti10.pfb>
-Output written on main.pdf (5 pages, 112815 bytes).
+ 41i,5n,25p,1402b,161s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Felix/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Felix/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Felix/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/U
+sers/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+9.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmti10.pfb>
+Output written on main.pdf (5 pages, 113680 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
