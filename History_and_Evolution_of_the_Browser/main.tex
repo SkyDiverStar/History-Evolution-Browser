@@ -24,8 +24,8 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 	\section{Introduction}
 		\subsection{What is a Browser}
 		A Browser is an application that interprets HTML documents and data to render them to a Web page making the Web accessable. A browser lets you visit websites and do activities within them like login, view multimedia, link from one site to another, visit one page from another, print, send and receive email, among many other activities. The most common browser software titles on the market are: Microsoft Internet Explorer, Google's Chrome, Mozilla Firefox, Apple's Safari, and Opera. Browser availability depends on the operating system your computer is using (for example: Microsoft Windows, Linux, Ubuntu, Mac OS, among others).
-		
-		%Book site 52,https://de.wikipedia.org/wiki/Webbrowser 
+
+		%Book site 52,https://de.wikipedia.org/wiki/Webbrowser
 	\section{History}
 		\subsection{The first browsers}
 		The first browser for the web was also an invention of the founder of the web, Tim Berners-Lee. The browser was called \textit{WorldWideWeb} and was introduced to the world in the year 1990. A few years later, in 1994, the Browser was renamed \textit{Nexus}. The browser \textit{WorldWideWeb} was, a part of the fact that it was the first browser, also the first HTML editor.
@@ -48,12 +48,13 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 		\subsection{Google Chrome}
 		It was rumored in 2004 that Google was working on a browser, but the development only began in the year 2006. The reason why Google wanted to do their own browser, was because the other options at this time were not that satisfying. The first version was released in 2008 and gained immense popularity. In the year 2012 even surpassed IE in the market share race and since then is dominating the 2nd browser wars and is slowly winning as well. Google also developed an engine for browsers called Chromium, which many browser competitors slowly start using for their own browsers.
 		\subsection{Tor Browser}
-		\subsection{Timeline of all browsers}	\includegraphics[scale=0.80]{TimelineOfWebBrowsers.png} 
+		The \textit{Tor Browser} is a browser with one goal: internet user should have access to an uncensored web, without being tracked by anyone. Tor stands for "The Onion Routing", the technology that fuels the \textit{Tor Browser}. October 2002 the Tor network was deployed but no browser to access it, so people without technology experience were not able to access the network. The work on the \textit{Tor Browser} started in 2008 to help those without the knowledge to do so before. The browser was later on tool to many political movements, like the Arabic Spring in 2010, and popularity after Snowden's revelations in 2013.
+		\subsection{Timeline of all browsers}	\includegraphics[scale=0.80]{TimelineOfWebBrowsers.png}
 		\textit{\textbf{A timeline of all browsers and browser versions ever made. [1]}}\\
 		\includegraphics[scale=0.35]{WebBrowserMarketShare.png}
 		\textit{\textbf{A market share timeline from 2009 to 2019 for the most used browsers.[2]}}
 		\subsection{Browser nowadays}
-		
+		Today Google Chrome dominates the browser market, with roughly 60\%-65\%. Safari is the follow up with 15\%-19\% and after that comes Mozilla Firefox with 4\%-6\% market share. Another fact to mention is that most browser use Chromium, the browser engine of Google, including Opera, Microsoft Edge and other browsers. The only widely used browsers that don't use Chromium are Mozilla Firefox and Safari.
 	\section{Evolution}
 		\subsection{The meaning of Evolution}
 		With every new browser and browser version being released features and improvment have been added. Browsers became more secure, user and developer friendly, and more efficient. These were implemented because of new technologies, bugs being discovered and in trying to run out the competition. If you add all of the changes to a timeline you can overview the Evolution of the browser.
@@ -63,7 +64,7 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 		By changing the Web, patches also influenced browsers when they were introduced. In this chapter we will have a short summary of what these patches were and how browsers evolved and adpaped through these changes.
 			\subsubsection{Cookies}
 			Like mentioned before Cookies were introduced with Netscape in 1994 for websites to be able to save data to be remembered for processes on the clients side. The original idea The webbrowser is being used by the server of the website to save textinformation on the Computer of the client. These have made it possible to save login and shopping cart informations but also made Webtracking possible. Later they received critizism for being able to damage the users privacy and threadening security when surfing the web. Under the EU's GDPR Law websites are now forced now ask and inform users about saving data in their Browser.
-			%http cookie wikipedia english/german and Book 
+			%http cookie wikipedia english/german and Book
 			\subsubsection{SSL}
 			SSL is the short form for Secure Sockets Layers, which was an introduction of an security system in the Web. One could say that SSL is an application layer based security protocol but that is not entirely true. It actually is used in the session layer which is above the transport layer and beneath the application layer [3]. It was introduced by Netscape and shaped the security protocols we use nowadays. SSL had many flaws that were corrected by its successors TSL, thats why the latest version was deprecated in the year 2015.
 			\subsubsection{CSS}
@@ -74,6 +75,15 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 			\subsubsection{HTTP}
 			\subsubsection{HTML}
 			\subsubsection{URL}
+			%TODO: Move to another location?
+			\subsubsection{Browser Engines}
+			The browser engine, also called "layout engine" or "rendering engine", is the core component of most major web browsers. The job of a browser engine ist the transformation of HTML files and other required resources to an interactive web page. While it is possible to separate the engine for the layout and the rendering of the page, in practice they are mostly coupled and not seperated. The browser engine is also responsible for enforcing the web pages security policy and creating the DOM data structure used in scripts. It is also responsible for handling hyperlinks and web forms.
+			Browser engines may also be reused in other application. An email client, for example, may use such an engine for rendering HTML emails. Another example is the "Electron Framework", which uses the engine of \textit{Google Chrome}, used to create many applications. The layout to be rendered is specified by the CSS file of the web page. There are several different browser engine implementations and the most major web browsers use their own browser engine. Examples are Gecko by Mozilla, WebKit by Apple and Blink by Google. Microsoft used to have their own browser engines Trident and EdgeHTML, but use Googles Blink browser engine now.
+			%TODO: Move to Scripting?
+			\subsubsection{JavaScript Engines}
+			While it would have been possible to couple the handling of JavaScript to the browser engine, every major browser uses a dedicated script engine. This is due to the fact, that JavaScript, while originally created for use in web browsers, is now also used elsewhere. In the web browser these two engines interact with each other through the shared DOM data structure.
+			The first JS engines started with bare interpreters and evolved to full engines with several additional features. The first JavaScript engine was developed by Brendan Eich, co-founder of the Mozilla project, in 1995 for \textit{Netscape}. It was a bare interpreter for the language he was inventing at this time. The first modern JavaScript engine was Googles V8 engine, created for Chrome in 2008. The key innovations was just-in-time compilation, boosting performance significantly. As a result other browser vendors had to overhaul their interpreters to develop into full JavaScript engines. This lead to the development of the Nitro engine for Apples \textit{Safari} browser. Mozilla used portions of Nitro to improve SpiderMonkey, which resulted from Brendan Eichs original JavaScript interpreter. Opera replaced their interpreter with their Carakan engine, also boosting performance significantly.
+			Since 2017 all major browser have added support for WebAssembly to their JavaScript engines. This gives the ability to execute pre-compiled scripts for performance-critical parts of the web page. The code is executed in the same sandbox as the regular JS code.
 		\subsection{Features}
 			\subsubsection{History}
 			\subsubsection{Incognito mode}
@@ -86,18 +96,18 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 			The first web browsers did not have tabs as we know them from most modern browsers. While many may consider \textit{Opera} to be the browser to introduce tabbed browsing, \textit{Opera} had a  \textit{Multiple Document Interface} instead. This may seem similar but is substantial different to a \textit{Tabbed Document Interface}. The actual first browser supporting tabs was the \textit{Internet Explorer} Shell "NetCaptor", first released in 1997. The browser to mainstream browser tabs was however Firefox or more specifically its predecessor \textit{Phoenix}.
 			\subsubsection{Browser Chache}
 
-	%Prof meinte guter Fokus. 
+	%Prof meinte guter Fokus.
 	\section{Future of the Browser}
 	Nowadays there are already many ways to interact with a browser which seem rather futuristic. You can controll via voice, by hand gestures and even by just looking with your eyes. You are not just having you browser on your Computer but also on your phone, your watch and floating in the air infront of you.
-	%Pic of alexa, firefox vr, eye study 
+	%Pic of alexa, firefox vr, eye study
 		\subsection{Browsers becoming operating systems}
 		One of Alan Kay's main crizisms about the Web is the absence of an computational abilty for the browser. His vision is for them to be like  mini-operating systems and being able to execute localy. So it is possible for example if you want to learn an programming language you can just write code on the website and execute it on your computer.The patches where already steps into the right direction and with web applications like google docs or Microsoft office home the browser is going towards that vision. These make it possible to create, send and receive content like documents or tables while other people can access them simultaneously.
-		
+
 		An good example for a website supporting Alan Kay's vision is lively-web.org
 		%Screenshot
 		Everything that is displayed on the website is an object and can be changed, moved or overwritten and gives immediate feedback to the user. Every textfield is able to execute Javascript. You can create your own website or application and are able to edit and download it from everywhere.
 		%Before after Picture
-		%Book, 
+		%Book,
 		\subsection{New technologies}
 			\subsubsection{WebVR Browsers}
 			Virtual Reality Browsers are making it possible to access the Web with VR-Glasses. To navigate the voice or a virtual keyboard can be used. The Browsers makes it possible to watch 360 degrees videos or pictures. Developers are able to create WebVR Applications themself and put them on the web just like a website. Vr-Browsers like Firefox Reality or Supermedium Browser allow to display websites not like a 2D Sheet but rather like a 3D environment without having to download content. These evironments can also be experiences, see second picture, games or creative activities like 3D painting.
@@ -106,7 +116,7 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 				[4]	Firefox Reality
 				\includegraphics[scale=0.35]{Supermedium.png}
 				[5] Supermedium Browser
-			\end{center}	
+			\end{center}
 			\subsubsection{AR Browsers}
 			
 			%https://www.augmented-minds.com/de/erweiterte-realitaet/ar-app-und-ar-browser/
@@ -120,7 +130,7 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 	\section{Summery/Conclusion}
 	\section{Sources}
 	%Oder als Subsections??
-	[1]\url{https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Timeline_of_web_browsers.svg/3560px-Timeline_of_web_browsers.svg.png} 
+	[1]\url{https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Timeline_of_web_browsers.svg/3560px-Timeline_of_web_browsers.svg.png}
 	\newline
 	[2] \url{http://gs.statcounter.com/browser-market-share#monthly-200901-201905}
 	\newline
