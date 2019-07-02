@@ -81,7 +81,7 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 			\subsubsection{SSL}
 			\leavevmode\newline
 			SSL is the short form for Secure Sockets Layers, which was an introduction of an security system in the Web. One could say that SSL is an application layer based security protocol but that is not entirely true. It actually is used in the session layer which is above the transport layer and beneath the application layer [3]. It was introduced by Netscape and shaped the security protocols we use nowadays. SSL had many flaws that were corrected by its successors TSL, thats why the latest version was deprecated in the year 2015.
-			\subsubsection{CSS}%TODO: Ask Marco if needed
+			
 			\subsubsection{Java}
 			\leavevmode\newline
 			In the year 1995, Sun Microsystems published the object-oriented programming language \textit{Java}, inspired by James Gosling. \textit{Java}, formerly called Oak, is able to run on every computer. This is made possible by the Java Virtual Machine, which takes the standard bytecode instructions of the Java program and interpretes it. The only problem is that the JVM is not uniformly implemented across all hardware vendors. The combination of Java and the Web is only possible if the JVM is available to browser on the client side. The Java code is send with the the Web page, where this code is known as Applet. When the browser hits the point where the code should be run, it starts an instance of the JVM and gives it the bytecodes for the execution. [6]
@@ -89,7 +89,7 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 			While it would have been possible to couple the handling of JavaScript to the browser engine, every major browser uses a dedicated script engine. This is due to the fact, that JavaScript, while originally created for use in web browsers, is now also used elsewhere. In the web browser these two engines interact with each other through the shared DOM data structure.
 			The first JS engines started with bare interpreters and evolved to full engines with several additional features. The first JavaScript engine was developed by Brendan Eich, co-founder of the Mozilla project, in 1995 for \textit{Netscape}. It was a bare interpreter for the language he was inventing at this time. The first modern JavaScript engine was Googles V8 engine, created for Chrome in 2008. The key innovations was just-in-time compilation, boosting performance significantly. As a result other browser vendors had to overhaul their interpreters to develop into full JavaScript engines. This lead to the development of the Nitro engine for Apples \textit{Safari} browser. Mozilla used portions of Nitro to improve SpiderMonkey, which resulted from Brendan Eichs original JavaScript interpreter. Opera replaced their interpreter with their Carakan engine, also boosting performance significantly.
 			Since 2017 all major browser have added support for WebAssembly to their JavaScript engines. This gives the ability to execute pre-compiled scripts for performance-critical parts of the web page. The code is executed in the same sandbox as the regular JS code.
-			\subsubsection{SVG}%TODO: Ask Marco if needed
+			
 		\subsection{Basic Technological Changes}
 			\subsubsection{HTTP}
 			\leavevmode\newline
@@ -117,7 +117,6 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 			\leavevmode\newline
 			As the first major browser, \textit{Internet Explorer} introduced browser extensions with Version 5 in 1999. The other major browsers also added extensions over the years with Firefox in 2004, Opera in 2009 and Google Chrome and Safari in 2010. Nowadays most browsers support extensions to customize the user experience.
 			\subsubsection{Tabs}
-			\leavevmode\newline
 			\leavevmode\newline
 			The first web browsers did not have tabs as we know them from most modern browsers. While many may consider \textit{Opera} to be the browser to introduce tabbed browsing, \textit{Opera} had a  \textit{Multiple Document Interface} instead. This may seem similar but is substantial different to a \textit{Tabbed Document Interface}. The actual first browser supporting tabs was the \textit{Internet Explorer} Shell "NetCaptor", first released in 1997. The browser to mainstream browser tabs was however Firefox or more specifically its predecessor \textit{Phoenix}.
 			\subsubsection{Browser Chache}
@@ -172,52 +171,47 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 	\section{Summery/Conclusion}
 	\section{Sources}
 	%Oder als Subsections??
-	[1]\url{https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Timeline_of_web_browsers.svg/3560px-Timeline_of_web_browsers.svg.png}
+	[1] \url{https://crossbrowsertesting.com/blog/test-automation/history-of-web-browsers/}, used 22.04.2019
 	\newline
-	[2] \url{http://gs.statcounter.com/browser-market-share#monthly-200901-201905}
+	[2] \url{https://history-computer.com/Internet/Conquering/Mosaic.html}, used 24.04.2019
 	\newline
-	[3]\url{https://security.stackexchange.com/questions/19681/where-does-ssl-encryption-take-place}, used 12.06.2019
-	[4]
-	\url{https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/}
+	[3] \url{https://www.engadget.com/2014/05/10/history-of-netscape/?guccounter=1&guce_referrer_us=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_cs=pTxf0f91qMRQJ_HG2CFGbQ}, used 29.04.2019
 	\newline
-	[5]
-	\url{https://www.supermedium.com/#gallery_1-1}
+	[4] \url{https://www.fool.com/investing/general/2013/08/09/the-ipo-that-inflated-the-dot-com-bubble.aspx}, used 01.05.2019
 	\newline
-	[6] "The Web Was Done by Amateurs" by Marco Aiello, ISBN 978-3-319-90007-0 \newline
-	[7] "Microsoft and the Browser Wars" by Robert A.Levy, \url{https://pdfs.semanticscholar.org/1cf1/97ab7738244f2c45e6acec67051eb85f6243.pdf}, used for further reference in the browser wars times
+	[5] \url{https://www.youtube.com/watch?v=VANORrzKX50}, used 30.04.2019
 	\newline
-	[8] \url{https://www.fool.com/investing/general/2013/08/09/the-ipo-that-inflated-the-dot-com-bubble.aspx}, used 01.05.2019
+	[6] "Microsoft and the Browser Wars" by Robert A.Levy, \url{https://pdfs.semanticscholar.org/1cf1/97ab7738244f2c45e6acec67051eb85f6243.pdf}, used for further reference in the browser wars times
 	\newline
-	[9] \url{https://www.techopedia.com/definition/1352/uniform-resource-locator-url}, 25.06.2019
+	[7] \url{https://www.mozilla.org/de/about/history/details/}, used 20.05.2019
 	\newline
-	[10] \url{https://crossbrowsertesting.com/blog/test-automation/history-of-web-browsers/}, used 22.04.2019
+	[8] \url{https://wiki.mozilla.org/Timeline}, used 21.05.2019
 	\newline
-	[11] \url{https://www.youtube.com/watch?v=VANORrzKX50}, used 30.04.2019
-	\newline
-	[12] \url{
-		https://history-computer.com/Internet/Conquering/Mosaic.html}, used 24.04.2019
-	\newline
-	[13] \url{
-		https://www.engadget.com/2014/05/10/history-of-netscape/?guccounter=1&guce_referrer_us=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_cs=pTxf0f91qMRQJ_HG2CFGbQ}, used 29.04.2019
-	\newline
-	[14] \url{
-		https://www.mozilla.org/de/about/history/details/}, used 20.05.2019
-	\newline
-	[15] \url{https://wiki.mozilla.org/Timeline}, used 21.05.2019
-	\newline
-	[16] \url{
-		https://wikivisually.com/wiki/Safari_(web_browser)},used 17.06.2019
-	\newline
-	[17] \url{
+	[9] \url{
 		https://help.opera.com/en/operas-archived-history/}, used 27.05.2019
 	\newline
-	[18] \url{
+	[10] \url{
+		https://wikivisually.com/wiki/Safari_(web_browser)},used 17.06.2019
+	\newline
+	[11] \url{
 		https://www.googlewatchblog.de/2018/09/jahre-google-chrome-so-2/}, used 27.05.2019
 	\newline
-	[19] \url{https://netmarketshare.com/browser-market-share.aspx}, used 01.07.2019
+	[12] \url{https://www.torproject.org/about/history/}, used 25.06.2019
 	\newline
-		
-	
-	
-
+	[13]\url{https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Timeline_of_web_browsers.svg/3560px-Timeline_of_web_browsers.svg.png}
+	\newline
+	[14] \url{http://gs.statcounter.com/browser-market-share#monthly-200901-201905}
+	\newline
+	[15] \url{https://netmarketshare.com/browser-market-share.aspx}, used 01.07.2019
+	\newline
+	[16]\url{https://security.stackexchange.com/questions/19681/where-does-ssl-encryption-take-place}, used 12.06.2019
+	[17] "The Web Was Done by Amateurs" by Marco Aiello, ISBN 978-3-319-90007-0 \newline
+	[18] \url{https://www.techopedia.com/definition/1352/uniform-resource-locator-url}, 25.06.2019
+	\newline
+	[19]
+	\url{https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/}
+	\newline
+	[20]
+	\url{https://www.supermedium.com/#gallery_1-1}
+	\newline
 \end{document}
