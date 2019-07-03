@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.10.28)  3 JUL 2019 13:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.10.28)  3 JUL 2019 15:21
 entering extended mode
 **./main.tex
 (main.tex
@@ -369,19 +369,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/germa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
-<./Bilder/TimelineOfWebBrowsers.png, id=49, 439.04025pt x 325.215pt>
+<./Bilder/TimelineOfWebBrowsers.png, id=48, 439.04025pt x 325.215pt>
 File: ./Bilder/TimelineOfWebBrowsers.png Graphic file (type png)
 <use ./Bilder/TimelineOfWebBrowsers.png>
 Package pdftex.def Info: ./Bilder/TimelineOfWebBrowsers.png  used on input line
  53.
 (pdftex.def)             Requested size: 307.32608pt x 227.64894pt.
-<./Bilder/WebBrowserMarketShare.png, id=51, 1027.84pt x 578.16pt>
+<./Bilder/WebBrowserMarketShare.png, id=50, 1027.84pt x 578.16pt>
 File: ./Bilder/WebBrowserMarketShare.png Graphic file (type png)
 <use ./Bilder/WebBrowserMarketShare.png>
 Package pdftex.def Info: ./Bilder/WebBrowserMarketShare.png  used on input line
  58.
 (pdftex.def)             Requested size: 318.6271pt x 179.22774pt.
-<./Bilder/meta-chart.jpeg, id=52, 1204.5pt x 803.0pt>
+ [5 <./Bilder/TimelineOfWebBrowsers.png>]
+<./Bilder/meta-chart.jpeg, id=59, 1204.5pt x 803.0pt>
 File: ./Bilder/meta-chart.jpeg Graphic file (type jpg)
 <use ./Bilder/meta-chart.jpeg>
 Package pdftex.def Info: ./Bilder/meta-chart.jpeg  used on input line 65.
@@ -396,21 +397,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
  []
 
-[5 <./Bilder/TimelineOfWebBrowsers.png> <./Bilder/WebBrowserMarketShare.png>]
-[6 <./Bilder/meta-chart.jpeg>] [7] [8]
-<./Bilder/PanoramaEvoOfBr.JPEG, id=87, 1606.0pt x 621.32124pt>
+[6 <./Bilder/WebBrowserMarketShare.png>] [7 <./Bilder/meta-chart.jpeg>]
+[8] [9]
+<./Bilder/PanoramaEvoOfBr.JPEG, id=91, 1606.0pt x 621.32124pt>
 File: ./Bilder/PanoramaEvoOfBr.JPEG Graphic file (type jpg)
 <use ./Bilder/PanoramaEvoOfBr.JPEG>
 Package pdftex.def Info: ./Bilder/PanoramaEvoOfBr.JPEG  used on input line 122.
 
 (pdftex.def)             Requested size: 329.23213pt x 127.37167pt.
- [9] [10 <./Bilder/PanoramaEvoOfBr.JPEG>]
-<./Bilder/Firefox_Reality.png, id=105, 1003.75pt x 554.07pt>
+ [10] [11 <./Bilder/PanoramaEvoOfBr.JPEG>]
+<./Bilder/Firefox_Reality.png, id=109, 1003.75pt x 554.07pt>
 File: ./Bilder/Firefox_Reality.png Graphic file (type png)
 <use ./Bilder/Firefox_Reality.png>
 Package pdftex.def Info: ./Bilder/Firefox_Reality.png  used on input line 138.
 (pdftex.def)             Requested size: 351.31776pt x 193.9274pt.
-<./Bilder/Supermedium.png, id=106, 963.6pt x 542.025pt>
+<./Bilder/Supermedium.png, id=110, 963.6pt x 542.025pt>
 File: ./Bilder/Supermedium.png Graphic file (type png)
 <use ./Bilder/Supermedium.png>
 Package pdftex.def Info: ./Bilder/Supermedium.png  used on input line 140.
@@ -420,18 +421,18 @@ Overfull \hbox (4.19423pt too wide) in paragraph at lines 138--142
  [] 
  []
 
-[11 <./Bilder/Firefox_Reality.png> <./Bilder/Supermedium.png>]
-<./Bilder/Smartwatch.jpg, id=113, 481.8pt x 361.35pt>
+[12 <./Bilder/Firefox_Reality.png> <./Bilder/Supermedium.png>]
+<./Bilder/Smartwatch.jpg, id=117, 481.8pt x 361.35pt>
 File: ./Bilder/Smartwatch.jpg Graphic file (type jpg)
 <use ./Bilder/Smartwatch.jpg>
 Package pdftex.def Info: ./Bilder/Smartwatch.jpg  used on input line 151.
 (pdftex.def)             Requested size: 168.63252pt x 126.4744pt.
-<./Bilder/OperaNeon.png, id=114, 963.6pt x 542.025pt>
+<./Bilder/OperaNeon.png, id=118, 963.6pt x 542.025pt>
 File: ./Bilder/OperaNeon.png Graphic file (type png)
 <use ./Bilder/OperaNeon.png>
 Package pdftex.def Info: ./Bilder/OperaNeon.png  used on input line 163.
 (pdftex.def)             Requested size: 337.26506pt x 189.71158pt.
- [12 <./Bilder/Smartwatch.jpg>]<<ot1tt.cmap>>
+ [13 <./Bilder/Smartwatch.jpg>]<<ot1tt.cmap>>
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
 
 Overfull \hbox (74.67853pt too wide) in paragraph at lines 172--256
@@ -601,7 +602,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 172--256
 
  []
 
-[13 <./Bilder/OperaNeon.png>] [14]
+[14 <./Bilder/OperaNeon.png>] [15] [16]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
@@ -611,8 +612,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
  ) 
 Here is how much of TeX's memory you used:
- 5542 strings out of 492973
- 83269 string characters out of 3126691
+ 5544 strings out of 492973
+ 83283 string characters out of 3126691
  183981 words of memory out of 3000000
  9289 multiletter control sequences out of 15000+200000
  6638 words of font info for 24 fonts, out of 3000000 for 9000
@@ -628,9 +629,9 @@ rma/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><
 C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmti10.pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (14 pages, 6535335 bytes).
+Output written on main.pdf (16 pages, 6539373 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
+ 231 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
  69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
