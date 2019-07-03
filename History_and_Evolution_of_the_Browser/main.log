@@ -1,15 +1,19 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  3 JUL 2019 10:42
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.10.28)  3 JUL 2019 10:51
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2018-04-01> patch level 5
 (llncs.cls
 Document Class: llncs 2018/03/10 v2.20 
  LaTeX document class for Lecture Notes in Computer Science
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -22,11 +26,11 @@ File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.s
+) ("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.s
 ty"
-Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \c@tracingmulticols=\count88
-\mult@box=\box27
+\mult@box=\box26
 \multicol@leftmargin=\dimen103
 \c@unbalance=\count89
 \c@collectmore=\count90
@@ -39,13 +43,14 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \postmulticols=\dimen107
 \multicolsep=\skip43
 \multicolbaselineskip=\skip44
-\partial@page=\box28
-\last@line=\box29
+\partial@page=\box27
+\last@line=\box28
 \maxbalancingoverflow=\dimen108
-\mult@rightbox=\box30
-\mult@grightbox=\box31
-\mult@gfirstbox=\box32
-\mult@firstbox=\box33
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
 \@tempa=\box34
 \@tempa=\box35
 \@tempa=\box36
@@ -62,20 +67,26 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \@tempa=\box47
 \@tempa=\box48
 \@tempa=\box49
-\@tempa=\box50
 \c@columnbadness=\count94
 \c@finalcolumnbadness=\count95
 \last@try=\dimen109
 \multicolovershoot=\dimen110
 \multicolundershoot=\dimen111
-\mult@nat@firstbox=\box51
-\colbreak@box=\box52
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
 \mc@col@check@num=\count96
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\aliascnt.
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\aliascnt.
 sty"
-Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
-)
+Package: aliascnt 2016/05/16 v1.4 Alias counters (HO)
+
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\carlisle\remreset.
+sty"
+
+Package remreset Warning: The remreset package is obsolete:
+(remreset)                \@removefomresset is defined.
+
+))
 \c@chapter=\count97
 LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
 LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
@@ -104,10 +115,10 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
 \c@@auth=\count100
 \c@auco=\count101
 \instindent=\dimen123
-\authrun=\box53
+\authrun=\box52
 \authorrunning=\toks14
 \tocauthor=\toks15
-\titrun=\box54
+\titrun=\box53
 \titlerunning=\toks16
 \toctitle=\toks17
 \c@theorem=\count102
@@ -127,23 +138,23 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
 \c@remark=\count116
 \headlineindent=\dimen124
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
-Package: inputenc 2018/08/11 v1.3c Input encoding file
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
-) ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cmap\cmap.sty"
+) ("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cmap\cmap.sty"
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
 sty"
-Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
 hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
 generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
@@ -154,11 +165,15 @@ Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -180,20 +195,20 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
 y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
 sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.s
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
 ty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
 .sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
@@ -201,57 +216,57 @@ Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 \Hy@linkcounter=\count117
 \Hy@pagecounter=\count118
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
 f"
-File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count119
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
 cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4519.
-Package hyperref Info: Link nesting OFF on input line 4524.
-Package hyperref Info: Hyper index ON on input line 4527.
-Package hyperref Info: Plain pages OFF on input line 4534.
-Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4772.
+Package hyperref Info: Bookmarks ON on input line 4762.
 \c@Hy@tempcnt=\count120
- ("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+ ("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5125.
+LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen126
 \Fld@menulength=\count121
 \Field@Width=\dimen127
 \Fld@charsize=\dimen128
-Package hyperref Info: Hyper figures OFF on input line 6380.
-Package hyperref Info: Link nesting OFF on input line 6385.
-Package hyperref Info: Hyper index ON on input line 6388.
-Package hyperref Info: backreferencing OFF on input line 6395.
-Package hyperref Info: Link coloring OFF on input line 6400.
-Package hyperref Info: Link coloring with OCG OFF on input line 6405.
-Package hyperref Info: PDF/A mode OFF on input line 6410.
-LaTeX Info: Redefining \ref on input line 6450.
-LaTeX Info: Redefining \pageref on input line 6454.
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
 \Hy@abspage=\count122
 \c@Item=\count123
 \c@Hfootnote=\count124
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
 ef"
-File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
 \Fld@listcount=\count125
 \c@bookmark@seq@number=\count126
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
 check.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -259,24 +274,24 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip45
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
 sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
 sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
 ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
 x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
@@ -299,14 +314,14 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
-\AtBeginShipoutBox=\box55
+\AtBeginShipoutBox=\box54
 Package hyperref Info: Link coloring OFF on input line 15.
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
 ty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitl
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
@@ -320,12 +335,12 @@ LaTeX Info: Redefining \nameref on input line 15.
 \openout3 = `main.out'.
 
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
-df.mkii"
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count128
 \scratchdimen=\dimen131
-\scratchbox=\box56
+\scratchbox=\box55
 \nofMPsegments=\count129
 \nofMParguments=\count130
 \everyMPshowfont=\toks21
@@ -335,11 +350,11 @@ df.mkii"
 \makeMPintoPDFobject=\count133
 \everyMPtoPDFconversion=\toks22
 )
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
 base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Felix\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+("C:\Users\germa\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
 y"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
@@ -357,7 +372,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 18.
  [1
 
-{C:/Users/Felix/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
+{C:/Users/germa/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3] [4]
 <./Bilder/TimelineOfWebBrowsers.png, id=49, 439.04025pt x 325.215pt>
 File: ./Bilder/TimelineOfWebBrowsers.png Graphic file (type png)
 <use ./Bilder/TimelineOfWebBrowsers.png>
@@ -387,132 +402,188 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
 [5 <./Bilder/TimelineOfWebBrowsers.png> <./Bilder/WebBrowserMarketShare.png>]
 [6 <./Bilder/meta-chart.jpeg>] [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
 <./Bilder/PanoramaEvoOfBr.JPEG, id=87, 1606.0pt x 621.32124pt>
 File: ./Bilder/PanoramaEvoOfBr.JPEG Graphic file (type jpg)
 <use ./Bilder/PanoramaEvoOfBr.JPEG>
-Package pdftex.def Info: ./Bilder/PanoramaEvoOfBr.JPEG  used on input line 126.
+Package pdftex.def Info: ./Bilder/PanoramaEvoOfBr.JPEG  used on input line 121.
 
 (pdftex.def)             Requested size: 329.23213pt x 127.37167pt.
-[9] [10 <./Bilder/PanoramaEvoOfBr.JPEG>]
-<./Bilder/Firefox_Reality.png, id=107, 1003.75pt x 554.07pt>
+ [9] [10 <./Bilder/PanoramaEvoOfBr.JPEG>]
+<./Bilder/Firefox_Reality.png, id=105, 1003.75pt x 554.07pt>
 File: ./Bilder/Firefox_Reality.png Graphic file (type png)
 <use ./Bilder/Firefox_Reality.png>
-Package pdftex.def Info: ./Bilder/Firefox_Reality.png  used on input line 142.
+Package pdftex.def Info: ./Bilder/Firefox_Reality.png  used on input line 137.
 (pdftex.def)             Requested size: 351.31776pt x 193.9274pt.
-<./Bilder/Supermedium.png, id=108, 963.6pt x 542.025pt>
+<./Bilder/Supermedium.png, id=106, 963.6pt x 542.025pt>
 File: ./Bilder/Supermedium.png Graphic file (type png)
 <use ./Bilder/Supermedium.png>
-Package pdftex.def Info: ./Bilder/Supermedium.png  used on input line 144.
+Package pdftex.def Info: ./Bilder/Supermedium.png  used on input line 139.
 (pdftex.def)             Requested size: 337.26506pt x 189.71158pt.
 
-Overfull \hbox (4.19423pt too wide) in paragraph at lines 142--146
+Overfull \hbox (4.19423pt too wide) in paragraph at lines 137--141
  [] 
  []
 
 [11 <./Bilder/Firefox_Reality.png> <./Bilder/Supermedium.png>]
-<./Bilder/Smartwatch.jpg, id=115, 481.8pt x 361.35pt>
+<./Bilder/Smartwatch.jpg, id=113, 481.8pt x 361.35pt>
 File: ./Bilder/Smartwatch.jpg Graphic file (type jpg)
 <use ./Bilder/Smartwatch.jpg>
-Package pdftex.def Info: ./Bilder/Smartwatch.jpg  used on input line 155.
+Package pdftex.def Info: ./Bilder/Smartwatch.jpg  used on input line 150.
 (pdftex.def)             Requested size: 168.63252pt x 126.4744pt.
-<./Bilder/OperaNeon.png, id=116, 963.6pt x 542.025pt>
+<./Bilder/OperaNeon.png, id=114, 963.6pt x 542.025pt>
 File: ./Bilder/OperaNeon.png Graphic file (type png)
 <use ./Bilder/OperaNeon.png>
-Package pdftex.def Info: ./Bilder/OperaNeon.png  used on input line 167.
+Package pdftex.def Info: ./Bilder/OperaNeon.png  used on input line 162.
 (pdftex.def)             Requested size: 337.26506pt x 189.71158pt.
  [12 <./Bilder/Smartwatch.jpg>]<<ot1tt.cmap>>
+<<<<<<< HEAD
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
 
 Overfull \hbox (74.67853pt too wide) in paragraph at lines 177--249
+=======
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
+
+Overfull \hbox (74.67853pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [1] []$\OT1/cmtt/m/n/10 https : / / crossbrowsertesting . com /
  blog / test-[]automation / history-[]of-[]web-[]browsers/$[]\OT1/cmr/m/n/10 ,
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (5.65155pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (5.65155pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [2] []$\OT1/cmtt/m/n/10 https : / / history-[]computer . com / 
 Internet / Conquering / Mosaic . html$[]\OT1/cmr/m/n/10 , used
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (23.65115pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (23.65115pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [3] []$\OT1/cmtt/m/n/10 https : / / www . engadget . com / 2014
  / 05 / 10 / history-[]of-[]netscape / ?guccounter =
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (9.87335pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (9.87335pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmtt/m/n/10 1 & guce _ referrer _ us = aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8 & g
 uce _ referrer _ cs =
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (146.9001pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (146.9001pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [4] []$\OT1/cmtt/m/n/10 https : / / www . fool . com / investin
 g / general / 2013 / 08 / 09 / the-[]ipo-[]that-[]inflated-[]the-[]dot-[]com-[]
 bubble .
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (48.90332pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (48.90332pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [6] "Mi-crosoft and the Browser Wars" by Robert A.Levy, []$\OT1
 /cmtt/m/n/10 https : / / pdfs . semanticscholar .
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (1.42992pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (1.42992pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [9] []$\OT1/cmtt/m/n/10 https : / / help . opera . com / en / o
 peras-[]archived-[]history/$[]\OT1/cmr/m/n/10 , used 27.05.2019 
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (3.20772pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (3.20772pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [10] []$\OT1/cmtt/m/n/10 https : / / wikivisually . com / wiki 
 / Safari _ (web _ browser)$[]\OT1/cmr/m/n/10 ,used 17.06.2019 
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (11.42914pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (11.42914pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [11] []$\OT1/cmtt/m/n/10 https : / / www . googlewatchblog . de
  / 2018 / 09 / jahre-[]google-[]chrome-[]so-[]2/$[]\OT1/cmr/m/n/10 ,
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (20.179pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (20.179pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [13][]$\OT1/cmtt/m/n/10 https : / / upload . wikimedia . org / 
 wikipedia / commons / thumb / 7 / 74 / Timeline _
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (10.90167pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (10.90167pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmtt/m/n/10 of _ web _ browsers . svg / 3560px-[]Timeline _ of _ web _ bro
 wsers . svg . png$[] \OT1/cmr/m/n/10 12.06.2019 
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (29.65117pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (29.65117pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [14] []$\OT1/cmtt/m/n/10 http : / / gs . statcounter . com / br
 owser-[]market-[]share # monthly-[]200901-[]201905$[]
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (16.92984pt too wide) in paragraph at lines 177--249
+=======
+Overfull \hbox (16.92984pt too wide) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 \OT1/cmr/m/n/10 [15] []$\OT1/cmtt/m/n/10 https : / / netmarketshare . com / bro
 wser-[]market-[]share . aspx$[]\OT1/cmr/m/n/10 , used 01.07.2019 
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (130.45587pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [17][]$\OT1/cmtt/m/n/10 https : / / security . stackexchange . 
+=======
+Overfull \hbox (130.45587pt too wide) in paragraph at lines 172--234
+\OT1/cmr/m/n/10 [16][]$\OT1/cmtt/m/n/10 https : / / security . stackexchange . 
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 com / questions / 19681 / where-[]does-[]ssl-[]encryption-[]take-[]place$[]\OT1
 /cmr/m/n/10 ,
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (6.65135pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [18] []$\OT1/cmtt/m/n/10 https : / / en . m . wikipedia . org /
  wiki / JavaScript _ enginehttps : / / t3n . de /
@@ -527,10 +598,15 @@ Overfull \hbox (1.87344pt too wide) in paragraph at lines 177--249
 
 Overfull \hbox (47.67882pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [19] []$\OT1/cmtt/m/n/10 https : / / www . techopedia . com / d
+=======
+Overfull \hbox (47.67882pt too wide) in paragraph at lines 172--234
+\OT1/cmr/m/n/10 [18] []$\OT1/cmtt/m/n/10 https : / / www . techopedia . com / d
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 efinition / 1352 / uniform-[]resource-[]locator-[]url$[]\OT1/cmr/m/n/10 ,
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (6.65135pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [20] []$\OT1/cmtt/m/n/10 https : / / en . m . wikipedia . org /
  wiki / Browser _ enginehttps : / / www . pcmag .
@@ -557,37 +633,62 @@ om / ?hl = de # /evolution / night$[]\OT1/cmr/m/n/10 , used 05.05.2019
 
 Overfull \hbox (47.67882pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [23] []$\OT1/cmtt/m/n/10 https : / / blog . mozilla . org / blo
+=======
+Overfull \hbox (47.67882pt too wide) in paragraph at lines 172--234
+\OT1/cmr/m/n/10 [19] []$\OT1/cmtt/m/n/10 https : / / blog . mozilla . org / blo
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 g / 2018 / 09 / 18 / firefox-[]reality-[]now-[]available/$[]\OT1/cmr/m/n/10 ,
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (85.9285pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [25] []$\OT1/cmtt/m/n/10 https : / / www . augmented-[]minds . 
+=======
+Overfull \hbox (85.9285pt too wide) in paragraph at lines 172--234
+\OT1/cmr/m/n/10 [21] []$\OT1/cmtt/m/n/10 https : / / www . augmented-[]minds . 
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 com / de / erweiterte-[]realitaet / ar-[]app-[]und-[]ar-[]browser/$[]\OT1/cmr/m
 /n/10 ,
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (136.15025pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [26] []$\OT1/cmtt/m/n/10 http : / / www . die-[]smartwatch . de
+=======
+Overfull \hbox (136.15025pt too wide) in paragraph at lines 172--234
+\OT1/cmr/m/n/10 [22] []$\OT1/cmtt/m/n/10 http : / / www . die-[]smartwatch . de
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
  / 2014 / 07 / 26 / wear-[]internet-[]browser-[]surfen-[]auf-[]der-[]smartwatch
  .
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (38.15108pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [27] []$\OT1/cmtt/m/n/10 https : / / play . google . com / stor
+=======
+Overfull \hbox (38.15108pt too wide) in paragraph at lines 172--234
+\OT1/cmr/m/n/10 [23] []$\OT1/cmtt/m/n/10 https : / / play . google . com / stor
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 e / apps / details ? id = com . appfour . wearbrowser &
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (228.17726pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [28] []$\OT1/cmtt/m/n/10 https : / / www . f5 . com / labs / ar
+=======
+Overfull \hbox (228.17726pt too wide) in paragraph at lines 172--234
+\OT1/cmr/m/n/10 [24] []$\OT1/cmtt/m/n/10 https : / / www . f5 . com / labs / ar
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 ticles / threat-[]intelligence / how-[]quantum-[]computing-[]will-[]change-[]br
 owser-[]encryption$[]\OT1/cmr/m/n/10 ,
  []
 
 
+<<<<<<< HEAD
 Overfull \hbox (29.92963pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [29] []$\OT1/cmtt/m/n/10 https : / / www . lifewire . com / web
 -[]3-[]0-[]end-[]web-[]browser-[]3486610$[]\OT1/cmr/m/n/10 , used 26.06.19 
@@ -595,10 +696,26 @@ Overfull \hbox (29.92963pt too wide) in paragraph at lines 177--249
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 177--249
+=======
+Overfull \hbox (29.92963pt too wide) in paragraph at lines 172--234
+\OT1/cmr/m/n/10 [25] []$\OT1/cmtt/m/n/10 https : / / www . lifewire . com / web
+-[]3-[]0-[]end-[]web-[]browser-[]3486610$[]\OT1/cmr/m/n/10 , used 26.06.19 
+ []
+
+
+Overfull \hbox (36.92966pt too wide) in paragraph at lines 172--234
+\OT1/cmr/m/n/10 [27] []$\OT1/cmtt/m/n/10 http : / / www . evolutionoftheweb . c
+om / ?hl = de # /evolution / night$[]\OT1/cmr/m/n/10 , used 05.05.2019 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--234
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
 
  []
 
 [13 <./Bilder/OperaNeon.png>] [14]
+<<<<<<< HEAD
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 249.
@@ -612,22 +729,44 @@ Here is how much of TeX's memory you used:
  83620 string characters out of 3126252
  183779 words of memory out of 3000000
  9320 multiletter control sequences out of 15000+200000
+=======
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 6C61459A482A6BF8C6BD1C9E2AC6F6E0;72.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
+ ) 
+Here is how much of TeX's memory you used:
+ 5542 strings out of 492973
+ 83269 string characters out of 3126691
+ 180981 words of memory out of 3000000
+ 9289 multiletter control sequences out of 15000+200000
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
  6638 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,5n,25p,1497b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Felix/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Felix/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Fe
-lix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><
-C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmti10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+<C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/germa/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/germa/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ge
+rma/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><
+C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmti10.pfb><C:/Users/germa/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmtt10.pfb>
+<<<<<<< HEAD
 Output written on main.pdf (14 pages, 6535206 bytes).
 PDF statistics:
  219 PDF objects out of 1000 (max. 8388607)
  63 named destinations out of 1000 (max. 500000)
+=======
+Output written on main.pdf (14 pages, 6532074 bytes).
+PDF statistics:
+ 211 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+>>>>>>> b140419664874343b40e639cd3fe07f0436e6f4e
  69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
