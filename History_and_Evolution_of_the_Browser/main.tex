@@ -70,6 +70,22 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 	\section{Evolution}
 		\subsection{The meaning of Evolution}
 		With every new browser and browser version being released features and improvment have been added. Browsers became more secure, user and developer friendly, and more efficient. These were implemented because of new technologies, bugs being discovered and in trying to run out the competition. If you add all of the changes to a timeline you can overview the Evolution of the browser.
+			\subsection{Basic Technological Changes}
+		\subsubsection{HTTP}
+		\leavevmode\newline
+		\textit{HTTP} stands for HyperText Transfer Protocol. It is an aplication-level, request-reply protocol which is typically transported by a lower-level protocol, like TCP. It works like follows: if the client requests a ressource, the server replys with information and sometime even the ressource itself [16]. Today one differenciates between HTTP and HTTPs, where HTTPs means HyperText Transfer Protocol secure because the HTTP is acompanied by a SSL encryption.
+		\subsubsection{HTML}
+		\leavevmode\newline
+		\textit{HTML} is the abbreviation for HyperText Markup Language. Tim Berners-Lee made this textual format for annotating plain text with informations part of his original Web proposal, and created the first editor and at the same time the first browser around HTML. The first proposal for HTML is dated back to 1993, but today HTML 5 exists; which was standardized in 2014. [16]
+		\subsubsection{URL}
+		\leavevmode\newline
+		\textit{URL} is the short form for Uniform Resource Locator. The \textit{URL} gives the address where specific ressources are located in the Internet and the protocol to access it. The URL contains furthermore the port number to access the address, the location of the resource in the server and a fragment identifier [17]. The \textit{URL} is also one part of the original proposal of the Web from Tim Berners-Lee. 
+		%TODO: Move to another location?
+		\subsubsection{Browser Engines}
+		\leavevmode\newline
+		The browser engine, also called "layout engine" or "rendering engine", is the core component of most major web browsers. The job of a browser engine ist the transformation of HTML files and other required resources to an interactive web page. While it is possible to separate the engine for the layout and the rendering of the page, in practice they are mostly coupled and not seperated. The browser engine is also responsible for enforcing the web pages security policy and creating the DOM data structure used in scripts. It is also responsible for handling hyperlinks and web forms.
+		Browser engines may also be reused in other application. An email client, for example, may use such an engine for rendering HTML emails. Another example is the "Electron Framework", which uses the engine of \textit{Google Chrome}, used to create many applications. The layout to be rendered is specified by the CSS file of the web page. There are several different browser engine implementations and the most major web browsers use their own browser engine. Examples are Gecko by Mozilla, WebKit by Apple and Blink by Google. Microsoft used to have their own browser engines Trident and EdgeHTML, but use Googles Blink browser engine now.[18]
+		
 		\subsection{How Patches influenced Browsers}
 			\begin{quote}``I call such changes patches, as they are attempts to fix the original design of the web'' Marco Aiello The Web was Done by Amateurs S. 65 \end{quote}
 		By changing the Web, patches also influenced browsers when they were introduced. In this chapter we will have a short summary of what these patches were and how browsers evolved and adpaped through these changes.
@@ -78,7 +94,7 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 			Like mentioned before Cookies were introduced with Netscape in 1994 for websites to be able to save data to be remembered for processes on the clients side. The original idea The webbrowser is being used by the server of the website to save textinformation on the Computer of the client. These have made it possible to save login and shopping cart informations but also made Webtracking possible. Later they received critizism for being able to damage the users privacy and threadening security when surfing the web. Under the EU's GDPR Law websites are now forced now ask and inform users about saving data in their Browser.[16]
 			\subsubsection{SSL}
 			\leavevmode\newline
-			SSL is the short form for Secure Sockets Layers, which was an introduction of an security system in the Web. One could say that SSL is an application layer based security protocol but that is not entirely true. It actually is used in the session layer which is above the transport layer and beneath the application layer [17]. It was introduced by Netscape and shaped the security protocols we use nowadays. SSL had many flaws that were corrected by its successors TSL, thats why the latest version was deprecated in the year 2015.
+			SSL is the short form for Secure Sockets Layers, which was an introduction of an security system in the Web. One could say that SSL is an application layer based security protocol but that is not entirely true. It actually is used in the session layer which is above the transport layer and beneath the application layer [19]. It was introduced by Netscape and shaped the security protocols we use nowadays. SSL had many flaws that were corrected by its successors TSL, thats why the latest version was deprecated in the year 2015.
 			
 			\subsubsection{Java}
 			\leavevmode\newline
@@ -86,23 +102,8 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 			\subsubsection{JavaScript Engines} \leavevmode\newline
 			While it would have been possible to couple the handling of JavaScript to the browser engine, every major browser uses a dedicated script engine. This is due to the fact, that JavaScript, while originally created for use in web browsers, is now also used elsewhere. In the web browser these two engines interact with each other through the shared DOM data structure.
 			The first JS engines started with bare interpreters and evolved to full engines with several additional features. The first JavaScript engine was developed by Brendan Eich, co-founder of the Mozilla project, in 1995 for \textit{Netscape}. It was a bare interpreter for the language he was inventing at this time. The first modern JavaScript engine was Googles V8 engine, created for Chrome in 2008. The key innovations was just-in-time compilation, boosting performance significantly. As a result other browser vendors had to overhaul their interpreters to develop into full JavaScript engines. This lead to the development of the Nitro engine for Apples \textit{Safari} browser. Mozilla used portions of Nitro to improve SpiderMonkey, which resulted from Brendan Eichs original JavaScript interpreter. Opera replaced their interpreter with their Carakan engine, also boosting performance significantly.
-			Since 2017 all major browser have added support for WebAssembly to their JavaScript engines. This gives the ability to execute pre-compiled scripts for performance-critical parts of the web page. The code is executed in the same sandbox as the regular JS code.[19]
+			Since 2017 all major browser have added support for WebAssembly to their JavaScript engines. This gives the ability to execute pre-compiled scripts for performance-critical parts of the web page. The code is executed in the same sandbox as the regular JS code.[20]
 			
-		\subsection{Basic Technological Changes}
-			\subsubsection{HTTP}
-			\leavevmode\newline
-			\textit{HTTP} stands for HyperText Transfer Protocol. It is an aplication-level, request-reply protocol which is typically transported by a lower-level protocol, like TCP. It works like follows: if the client requests a ressource, the server replys with information and sometime even the ressource itself [16]. Today one differenciates between HTTP and HTTPs, where HTTPs means HyperText Transfer Protocol secure because the HTTP is acompanied by a SSL encryption.
-			\subsubsection{HTML}
-			\leavevmode\newline
-			\textit{HTML} is the abbreviation for HyperText Markup Language. Tim Berners-Lee made this textual format for annotating plain text with informations part of his original Web proposal, and created the first editor and at the same time the first browser around HTML. The first proposal for HTML is dated back to 1993, but today HTML 5 exists; which was standardized in 2014. [16]
-			\subsubsection{URL}
-			\leavevmode\newline
-			\textit{URL} is the short form for Uniform Resource Locator. The \textit{URL} gives the address where specific ressources are located in the Internet and the protocol to access it. The URL contains furthermore the port number to access the address, the location of the resource in the server and a fragment identifier [19]. The \textit{URL} is also one part of the original proposal of the Web from Tim Berners-Lee. 
-			%TODO: Move to another location?
-			\subsubsection{Browser Engines}
-			\leavevmode\newline
-			The browser engine, also called "layout engine" or "rendering engine", is the core component of most major web browsers. The job of a browser engine ist the transformation of HTML files and other required resources to an interactive web page. While it is possible to separate the engine for the layout and the rendering of the page, in practice they are mostly coupled and not seperated. The browser engine is also responsible for enforcing the web pages security policy and creating the DOM data structure used in scripts. It is also responsible for handling hyperlinks and web forms.
-			Browser engines may also be reused in other application. An email client, for example, may use such an engine for rendering HTML emails. Another example is the "Electron Framework", which uses the engine of \textit{Google Chrome}, used to create many applications. The layout to be rendered is specified by the CSS file of the web page. There are several different browser engine implementations and the most major web browsers use their own browser engine. Examples are Gecko by Mozilla, WebKit by Apple and Blink by Google. Microsoft used to have their own browser engines Trident and EdgeHTML, but use Googles Blink browser engine now.[20]
 		\subsection{Features}
 			\subsubsection{Incognito mode}
 			\leavevmode\newline
@@ -203,23 +204,23 @@ Universitätsstraße 38, 70569 Stuttgart, Germany}
 	\newline
 	[16] "The Web Was Done by Amateurs" by Marco Aiello, ISBN 978-3-319-90007-0 
 	\newline
-	[17]\url{https://security.stackexchange.com/questions/19681/where-does-ssl-encryption-take-place}, used 12.06.2019
+	[17] \url{https://www.techopedia.com/definition/1352/uniform-resource-locator-url}, 25.06.2019
 	\newline
-	[18] \url{https://en.m.wikipedia.org/wiki/JavaScript_engine}
-	\newline \url{https://t3n.de/magazin/javascript-engines-turbolader-fuer-browser-247188/}
-	\newline
-	\url{https://patents.google.com/patent/US6892200B2/en}
-	\newline
-	\url{https://v8.dev/}, all used 25.06.2019
-	\newline
-	[19] \url{https://www.techopedia.com/definition/1352/uniform-resource-locator-url}, 25.06.2019
-	\newline
-	[20]
+	[18]
 	\url{https://en.m.wikipedia.org/wiki/Browser_engine}
 	\newline
 	\url{https://www.pcmag.com/encyclopedia/term/61819/browser-rendering-engine}
 	\newline
 	\url{https://stackoverflow.com/questions/46169376/whats-the-difference-between-a-browser-engine-and-rendering-engine}, all used 26.06.2019
+	\newline
+	[19]\url{https://security.stackexchange.com/questions/19681/where-does-ssl-encryption-take-place}, used 12.06.2019
+	\newline
+	[20] \url{https://en.m.wikipedia.org/wiki/JavaScript_engine}
+	\newline \url{https://t3n.de/magazin/javascript-engines-turbolader-fuer-browser-247188/}
+	\newline
+	\url{https://patents.google.com/patent/US6892200B2/en}
+	\newline
+	\url{https://v8.dev/}, all used 25.06.2019
 	\newline
 	[21] \url{https://en.wikipedia.org/wiki/Private_browsing}, used 20.06.2019
 	\newline
