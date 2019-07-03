@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  2 JUL 2019 15:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.16)  3 JUL 2019 10:42
 entering extended mode
 **./main.tex
 (main.tex
@@ -425,156 +425,192 @@ File: ./Bilder/OperaNeon.png Graphic file (type png)
 Package pdftex.def Info: ./Bilder/OperaNeon.png  used on input line 167.
 (pdftex.def)             Requested size: 337.26506pt x 189.71158pt.
  [12 <./Bilder/Smartwatch.jpg>]<<ot1tt.cmap>>
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
 
-Overfull \hbox (74.67853pt too wide) in paragraph at lines 177--239
+Overfull \hbox (74.67853pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [1] []$\OT1/cmtt/m/n/10 https : / / crossbrowsertesting . com /
  blog / test-[]automation / history-[]of-[]web-[]browsers/$[]\OT1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (5.65155pt too wide) in paragraph at lines 177--239
+Overfull \hbox (5.65155pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [2] []$\OT1/cmtt/m/n/10 https : / / history-[]computer . com / 
 Internet / Conquering / Mosaic . html$[]\OT1/cmr/m/n/10 , used
  []
 
 
-Overfull \hbox (23.65115pt too wide) in paragraph at lines 177--239
+Overfull \hbox (23.65115pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [3] []$\OT1/cmtt/m/n/10 https : / / www . engadget . com / 2014
  / 05 / 10 / history-[]of-[]netscape / ?guccounter =
  []
 
 
-Overfull \hbox (9.87335pt too wide) in paragraph at lines 177--239
+Overfull \hbox (9.87335pt too wide) in paragraph at lines 177--249
 \OT1/cmtt/m/n/10 1 & guce _ referrer _ us = aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8 & g
 uce _ referrer _ cs =
  []
 
 
-Overfull \hbox (146.9001pt too wide) in paragraph at lines 177--239
+Overfull \hbox (146.9001pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [4] []$\OT1/cmtt/m/n/10 https : / / www . fool . com / investin
 g / general / 2013 / 08 / 09 / the-[]ipo-[]that-[]inflated-[]the-[]dot-[]com-[]
 bubble .
  []
 
 
-Overfull \hbox (48.90332pt too wide) in paragraph at lines 177--239
+Overfull \hbox (48.90332pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [6] "Mi-crosoft and the Browser Wars" by Robert A.Levy, []$\OT1
 /cmtt/m/n/10 https : / / pdfs . semanticscholar .
  []
 
 
-Overfull \hbox (1.42992pt too wide) in paragraph at lines 177--239
+Overfull \hbox (1.42992pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [9] []$\OT1/cmtt/m/n/10 https : / / help . opera . com / en / o
 peras-[]archived-[]history/$[]\OT1/cmr/m/n/10 , used 27.05.2019 
  []
 
 
-Overfull \hbox (3.20772pt too wide) in paragraph at lines 177--239
+Overfull \hbox (3.20772pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [10] []$\OT1/cmtt/m/n/10 https : / / wikivisually . com / wiki 
 / Safari _ (web _ browser)$[]\OT1/cmr/m/n/10 ,used 17.06.2019 
  []
 
 
-Overfull \hbox (11.42914pt too wide) in paragraph at lines 177--239
+Overfull \hbox (11.42914pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [11] []$\OT1/cmtt/m/n/10 https : / / www . googlewatchblog . de
  / 2018 / 09 / jahre-[]google-[]chrome-[]so-[]2/$[]\OT1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (20.179pt too wide) in paragraph at lines 177--239
+Overfull \hbox (20.179pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [13][]$\OT1/cmtt/m/n/10 https : / / upload . wikimedia . org / 
 wikipedia / commons / thumb / 7 / 74 / Timeline _
  []
 
 
-Overfull \hbox (29.65117pt too wide) in paragraph at lines 177--239
-\OT1/cmr/m/n/10 [14] []$\OT1/cmtt/m/n/10 http : / / gs . statcounter . com / br
-owser-[]market-[]share # monthly-[]200901-[]201905$[] 
+Overfull \hbox (10.90167pt too wide) in paragraph at lines 177--249
+\OT1/cmtt/m/n/10 of _ web _ browsers . svg / 3560px-[]Timeline _ of _ web _ bro
+wsers . svg . png$[] \OT1/cmr/m/n/10 12.06.2019 
  []
 
 
-Overfull \hbox (16.92984pt too wide) in paragraph at lines 177--239
+Overfull \hbox (29.65117pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [14] []$\OT1/cmtt/m/n/10 http : / / gs . statcounter . com / br
+owser-[]market-[]share # monthly-[]200901-[]201905$[]
+ []
+
+
+Overfull \hbox (16.92984pt too wide) in paragraph at lines 177--249
 \OT1/cmr/m/n/10 [15] []$\OT1/cmtt/m/n/10 https : / / netmarketshare . com / bro
 wser-[]market-[]share . aspx$[]\OT1/cmr/m/n/10 , used 01.07.2019 
  []
 
 
-Overfull \hbox (130.45587pt too wide) in paragraph at lines 177--239
-\OT1/cmr/m/n/10 [16][]$\OT1/cmtt/m/n/10 https : / / security . stackexchange . 
+Overfull \hbox (130.45587pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [17][]$\OT1/cmtt/m/n/10 https : / / security . stackexchange . 
 com / questions / 19681 / where-[]does-[]ssl-[]encryption-[]take-[]place$[]\OT1
 /cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (47.67882pt too wide) in paragraph at lines 177--239
-\OT1/cmr/m/n/10 [18] []$\OT1/cmtt/m/n/10 https : / / www . techopedia . com / d
+Overfull \hbox (6.65135pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [18] []$\OT1/cmtt/m/n/10 https : / / en . m . wikipedia . org /
+ wiki / JavaScript _ enginehttps : / / t3n . de /
+ []
+
+
+Overfull \hbox (1.87344pt too wide) in paragraph at lines 177--249
+\OT1/cmtt/m/n/10 magazin / javascript-[]engines-[]turbolader-[]fuer-[]browser-[
+]247188 / https : / /
+ []
+
+
+Overfull \hbox (47.67882pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [19] []$\OT1/cmtt/m/n/10 https : / / www . techopedia . com / d
 efinition / 1352 / uniform-[]resource-[]locator-[]url$[]\OT1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (47.67882pt too wide) in paragraph at lines 177--239
-\OT1/cmr/m/n/10 [19] []$\OT1/cmtt/m/n/10 https : / / blog . mozilla . org / blo
+Overfull \hbox (6.65135pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [20] []$\OT1/cmtt/m/n/10 https : / / en . m . wikipedia . org /
+ wiki / Browser _ enginehttps : / / www . pcmag .
+ []
+
+
+Overfull \hbox (42.37308pt too wide) in paragraph at lines 177--249
+\OT1/cmtt/m/n/10 com / encyclopedia / term / 61819 / browser-[]rendering-[]engi
+nehttps : / / stackoverflow .
+ []
+
+
+Overfull \hbox (147.40024pt too wide) in paragraph at lines 177--249
+\OT1/cmtt/m/n/10 com / questions / 46169376 / whats-[]the-[]difference-[]betwee
+n-[]a-[]browser-[]engine-[]and-[]rendering-[]engine$[]\OT1/cmr/m/n/10 26.06 
+ []
+
+
+Overfull \hbox (36.92966pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [21] []$\OT1/cmtt/m/n/10 http : / / www . evolutionoftheweb . c
+om / ?hl = de # /evolution / night$[]\OT1/cmr/m/n/10 , used 05.05.2019 
+ []
+
+
+Overfull \hbox (47.67882pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [23] []$\OT1/cmtt/m/n/10 https : / / blog . mozilla . org / blo
 g / 2018 / 09 / 18 / firefox-[]reality-[]now-[]available/$[]\OT1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (85.9285pt too wide) in paragraph at lines 177--239
-\OT1/cmr/m/n/10 [21] []$\OT1/cmtt/m/n/10 https : / / www . augmented-[]minds . 
+Overfull \hbox (85.9285pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [25] []$\OT1/cmtt/m/n/10 https : / / www . augmented-[]minds . 
 com / de / erweiterte-[]realitaet / ar-[]app-[]und-[]ar-[]browser/$[]\OT1/cmr/m
 /n/10 ,
  []
 
 
-Overfull \hbox (136.15025pt too wide) in paragraph at lines 177--239
-\OT1/cmr/m/n/10 [22] []$\OT1/cmtt/m/n/10 http : / / www . die-[]smartwatch . de
+Overfull \hbox (136.15025pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [26] []$\OT1/cmtt/m/n/10 http : / / www . die-[]smartwatch . de
  / 2014 / 07 / 26 / wear-[]internet-[]browser-[]surfen-[]auf-[]der-[]smartwatch
  .
  []
 
 
-Overfull \hbox (38.15108pt too wide) in paragraph at lines 177--239
-\OT1/cmr/m/n/10 [23] []$\OT1/cmtt/m/n/10 https : / / play . google . com / stor
+Overfull \hbox (38.15108pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [27] []$\OT1/cmtt/m/n/10 https : / / play . google . com / stor
 e / apps / details ? id = com . appfour . wearbrowser &
  []
 
 
-Overfull \hbox (228.17726pt too wide) in paragraph at lines 177--239
-\OT1/cmr/m/n/10 [24] []$\OT1/cmtt/m/n/10 https : / / www . f5 . com / labs / ar
+Overfull \hbox (228.17726pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [28] []$\OT1/cmtt/m/n/10 https : / / www . f5 . com / labs / ar
 ticles / threat-[]intelligence / how-[]quantum-[]computing-[]will-[]change-[]br
 owser-[]encryption$[]\OT1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (17.15181pt too wide) in paragraph at lines 177--239
-\OT1/cmr/m/n/10 [25] []$\OT1/cmtt/m/n/10 https : / / www . lifewire . com / web
--[]3-[]0-[]end-[]web-[]browser-[]3486610$[]\OT1/cmr/m/n/10 , used 26.06 
+Overfull \hbox (29.92963pt too wide) in paragraph at lines 177--249
+\OT1/cmr/m/n/10 [29] []$\OT1/cmtt/m/n/10 https : / / www . lifewire . com / web
+-[]3-[]0-[]end-[]web-[]browser-[]3486610$[]\OT1/cmr/m/n/10 , used 26.06.19 
  []
 
 
-Overfull \hbox (36.92966pt too wide) in paragraph at lines 177--239
-\OT1/cmr/m/n/10 [27] []$\OT1/cmtt/m/n/10 http : / / www . evolutionoftheweb . c
-om / ?hl = de # /evolution / night$[]\OT1/cmr/m/n/10 , used 05.05.2019 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--239
+Underfull \hbox (badness 10000) in paragraph at lines 177--249
 
  []
 
 [13 <./Bilder/OperaNeon.png>] [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 239.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 239.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 249.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 249.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 6C61459A482A6BF8C6BD1C9E2AC6F6E0;72.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 239.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 249.
  ) 
 Here is how much of TeX's memory you used:
  5544 strings out of 492945
  83620 string characters out of 3126252
- 182779 words of memory out of 3000000
+ 183779 words of memory out of 3000000
  9320 multiletter control sequences out of 15000+200000
  6638 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -589,9 +625,9 @@ lix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><
 C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmti10.pfb><C:/Users/Felix/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (14 pages, 6532252 bytes).
+Output written on main.pdf (14 pages, 6535206 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
+ 219 PDF objects out of 1000 (max. 8388607)
  63 named destinations out of 1000 (max. 500000)
  69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
