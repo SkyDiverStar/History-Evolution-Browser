@@ -1,9 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1561151770 "main.tex" "main.pdf" "main" 1561151773
+["pdflatex"] 1562781163 "main.tex" "main.pdf" "main" 1562781167
   "Bilder/Firefox_Reality.png" 1561126559 510715 88a7e15db3459a92f157f238dbe188ad ""
+  "Bilder/OperaNeon.png" 1562144685 4210288 f53b28bcbcff4e7c25e2aa2df1288499 ""
+  "Bilder/PanoramaEvoOfBr.jpeg" 1562144685 240814 2d03f9de32a593e0252d651d5b184fe7 ""
+  "Bilder/Smartwatch.jpg" 1562144685 19421 a888517e570c9b5f66997354b804d9e3 ""
   "Bilder/Supermedium.png" 1561126559 678469 c0783a73eef9a35e4dc6a4c1aa0def7a ""
   "Bilder/TimelineOfWebBrowsers.png" 1561126559 528943 1cd7dc99393a80688c063aa037dd0470 ""
   "Bilder/WebBrowserMarketShare.png" 1561126559 238923 74efc5ade846b2ff8806fdda6135a023 ""
+  "Bilder/meta-chart.jpeg" 1562144685 62191 72c782a28a4e6d2b6264a023bdec3ed1 ""
   "h:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1531492555 3332 103109f5612ad95229751940c61aada0 ""
   "h:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1531491925 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "h:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1531491925 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -61,11 +65,11 @@
   "h:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1531495007 4216821 57bcbc210b4aa04ebea9f3d8af81db1f ""
   "h:/texlive/2018/texmf.cnf" 1531494858 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   "llncs.cls" 1555500825 43467 b08ec23e994470d7d8fc268d245cf555 ""
-  "main.aux" 1561151773 5188 d9ac67754099114b12c691758da529e1 ""
-  "main.out" 1561151773 71 05fb35c948e832f811965f53a340cc2f ""
-  "main.tex" 1561151765 22313 79492a2cbd67656e9d7b6854dc1597d6 ""
+  "main.aux" 1562781166 4714 16b6a0acd89751901a286725e25ffdba ""
+  "main.out" 1562781166 71 05fb35c948e832f811965f53a340cc2f ""
+  "main.tex" 1562781162 33745 d435ab8c1d5b39af2a5d448ce0cd15c9 ""
   (generated)
-  "main.out"
-  "main.pdf"
   "main.log"
+  "main.pdf"
+  "main.out"
   "main.aux"
